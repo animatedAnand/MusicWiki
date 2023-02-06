@@ -1,4 +1,4 @@
-# Music App
+# MusicWiki
 An android application developed in Kotlin using XML for layouts, designed for music lovers. The app showcases the most popular albums, tracks, and artists, along with their followers, playcounts, and descriptions.
 
 # Features
@@ -16,7 +16,9 @@ An android application developed in Kotlin using XML for layouts, designed for m
 1. Clone the repository to your local machine
 bash
 2. Copy code
-'''git clone https://github.com/<username>/MusicApp.git'''
+```
+git clone https://github.com/animatedAnand/MusicWiki.git
+```
 3. Open the project in Android Studio
 4. Build and run the project on an emulator or a physical device
 
