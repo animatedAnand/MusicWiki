@@ -11,6 +11,9 @@ An android application developed in Kotlin using XML for layouts, designed for m
 * Android Studio
 * Kotlin
 * XML
+* REST API
+* Retrofit
+* Material Design
 
 # Installation
 1. Clone the repository to your local machine
