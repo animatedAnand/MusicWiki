@@ -34,6 +34,8 @@ The API documentation can be found at last.fm (https://www.last.fm/api)
 - Top 10 Genres
 - Expanded list of all Genres
 
+
+## Screenshots
 <table>
   <tr>
     <td>
